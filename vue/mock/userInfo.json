@@ -1,0 +1,29 @@
+  {
+  "msg": "请求成功",
+  "code": "100",
+  "info": {
+    "userPermission": {
+      "menuList": [
+        "role",
+        "user",
+        "article"
+      ],
+      "roleId": 1,
+      "nickname": "超级用户23",
+      "roleName": "管理员",
+      "permissionList": [
+        "article:list",
+        "user:list",
+        "user:add",
+        "role:update",
+        "article:add",
+        "role:list",
+        "article:update",
+        "user:update",
+        "role:delete",
+        "role:add"
+      ],
+      "userId": 10003
+    }
+  }
+}
